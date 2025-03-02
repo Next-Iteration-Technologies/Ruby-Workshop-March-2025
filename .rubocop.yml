@@ -1,0 +1,16 @@
+Documentation:
+  Enabled: false
+PredicateName:
+  Enabled: false
+MethodParameterName:
+  Enabled: false
+SingleLineMethods:
+  Enabled: false
+TrailingWhitespace:
+  Enabled: false
+TrailingEmptyLines:
+  Enabled: false
+Style/FrozenStringLiteralComment:
+  Exclude:
+    - 'Gemfile'
+    - 'spec/spec_helper.rb'
